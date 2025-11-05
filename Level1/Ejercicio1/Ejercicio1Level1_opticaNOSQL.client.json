@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "690b37911ce90245a708f87f"
+  },
+  "name": "Laura Fernández",
+  "telephone": 678912345,
+  "email": "laura.fernandez@email.com",
+  "registrationDate": "2025-11-05",
+  "recommendedBy": "Pepe",
+  "address_Client": {
+    "street": "Carrer de la Pau",
+    "num": 42,
+    "floor": 2,
+    "door": "B",
+    "city": "Barcelona",
+    "zip": "08002",
+    "country": "España"
+  },
+  "glases_purchase": [
+    {
+      "brand": "Ray-Ban",
+      "graduation": {
+        "graduationLeftEye": 1.25,
+        "graduationRightEye": 1.5
+      },
+      "frame": "metálica",
+      "frameColor": "plateado",
+      "colorGlas": {
+        "colorLeftEye": "azul",
+        "colorRightEye": "azul"
+      },
+      "price": 149.99,
+      "saleDate": "2025-11-05",
+      "employee": "Ana López",
+      "supplier": [
+        {
+          "name": "VisionLux S.A.",
+          "telephone": 934567890,
+          "fax": 934567891,
+          "nif": "B12345678",
+          "address_Supplier": {
+            "street": "Carrer lentilla",
+            "num": 22,
+            "floor": 2,
+            "door": "B",
+            "city": "Barcelona",
+            "zip": "08022",
+            "country": "España"
+          },
+          "glasses": [
+            {
+              "brand": "Ray-Ban",
+              "frame": "metallic",
+              "frameColor": "silver",
+              "price": 149.99
+            },
+            {
+              "brand": "PRADA",
+              "frame": "pasta",
+              "frameColor": "negro",
+              "price": 189
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}]

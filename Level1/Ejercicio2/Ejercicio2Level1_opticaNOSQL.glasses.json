@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "690bac964397334b334672a5"
+  },
+  "brand": "Ray-Ban",
+  "frame": "metálica",
+  "frameColor": "plateado",
+  "price": 149.99,
+  "saleDate": "2025-11-05",
+  "supplier": [
+    {
+      "name": "VisionLux S.A.",
+      "telephone": 934567890,
+      "fax": 934567891,
+      "nif": "B12345678",
+      "address_Supplier": {
+        "street": "Carrer lentilla",
+        "num": 22,
+        "floor": 2,
+        "door": "B",
+        "city": "Barcelona",
+        "zip": "08022",
+        "country": "España"
+      }
+    }
+  ],
+  "boughtBy": [
+    {
+      "name": "Laura Fernández",
+      "client_card": {
+        "telephone": 678912345,
+        "email": "laura.fernandez@email.com",
+        "registrationDate": "2025-11-05",
+        "recommendedBy": "Pepe",
+        "address_Client": {
+          "street": "Carrer de la Pau",
+          "num": 42,
+          "floor": 2,
+          "door": "B",
+          "city": "Barcelona",
+          "zip": "08002",
+          "country": "España"
+        }
+      }
+    },
+    {
+      "name": "Pepa",
+      "client_card": {
+        "telephone": 978912345,
+        "email": "pepa@email.com",
+        "registrationDate": "2024-12-15",
+        "recommendedBy": "Paco",
+        "address_Client": {
+          "street": "Carrer Pipo",
+          "num": 2,
+          "floor": 7,
+          "door": "A",
+          "city": "Madrid",
+          "zip": "03452",
+          "country": "España"
+        }
+      }
+    }
+  ]
+}]
