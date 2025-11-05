@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "690b39c41ce90245a708f890"
+  },
+  "name": "VisionLux S.A.",
+  "telephone": 934567890,
+  "fax": 934567891,
+  "nif": "B12345678",
+  "address": {
+    "$oid": "690b38b41ce90245a708f88d"
+  }
+}]

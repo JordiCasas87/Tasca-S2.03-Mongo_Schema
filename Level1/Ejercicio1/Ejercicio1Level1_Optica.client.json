@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "690b37911ce90245a708f87f"
+  },
+  "name": "Laura Fernández",
+  "telephone": 678912345,
+  "email": "laura.fernandez@email.com",
+  "registrationDate": "2025-11-05",
+  "address": {
+    "$oid": "690b36991ce90245a708f872"
+  },
+  "recommendedBy": {
+    "$oid": "690b41bb1ce90245a708f8be"
+  }
+},
+{
+  "_id": {
+    "$oid": "690b41bb1ce90245a708f8be"
+  },
+  "name": "Pepe",
+  "telephone": 615234652,
+  "email": "pepe@email.com",
+  "registrationDate": "2024-09-06",
+  "address": {
+    "$oid": "690b41231ce90245a708f8b9"
+  },
+  "recommendedBy": {
+    "$oid": "690b37911ce90245a708f87f"
+  }
+}]

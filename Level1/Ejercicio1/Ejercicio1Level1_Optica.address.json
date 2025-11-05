@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "690b36991ce90245a708f872"
+  },
+  "street": "Carrer de la Pau",
+  "num": 42,
+  "floor": 2,
+  "door": "B",
+  "city": "Barcelona",
+  "zip": "08002",
+  "country": "España",
+  "type": "client"
+},
+{
+  "_id": {
+    "$oid": "690b38b41ce90245a708f88d"
+  },
+  "street": "Carrer Vila",
+  "num": 33,
+  "floor": 7,
+  "door": "B",
+  "city": "Barcelona",
+  "zip": "08005",
+  "country": "España",
+  "type": "supplier"
+},
+{
+  "_id": {
+    "$oid": "690b41231ce90245a708f8b9"
+  },
+  "street": "Carrer grases",
+  "num": 1,
+  "floor": 12,
+  "door": "C",
+  "city": "Barcelona",
+  "zip": "08015",
+  "country": "España",
+  "type": "client"
+}]
