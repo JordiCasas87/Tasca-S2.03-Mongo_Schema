@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "690c761bdbc990f2d10d5074"
+  },
+  "date": "2025-01-01",
+  "typeOrder": {
+    "delivery": {
+      "street": "Carrer de la Pau",
+      "num": 42,
+      "floor": 2,
+      "door": "B",
+      "city": "Barcelona",
+      "zip": "08002",
+      "country": "España"
+    },
+    "pickUp": {}
+  },
+  "client": {
+    "ID": "123",
+    "name": "Pepe"
+  },
+  "price": 72,
+  "additionalInfo": "El cliente es alérgico a la harina, el tomate y el queso",
+  "products": [
+    {
+      "pizzas": [
+        {
+          "category": "Las Clásicas",
+          "pizza_product": [
+            {
+              "id": 4,
+              "name": "Margarita",
+              "description": "Rica pizza de tomate y queso, en honor a todas las reinas.",
+              "foto": "margarita.jpg",
+              "price": 16,
+              "cuantity": 1
+            },
+            {
+              "id": 8,
+              "name": "Barbacoa",
+              "description": "Pizza con salsa barbacoa, con carne a la parrilla.",
+              "foto": "barbacoa.jpg",
+              "price": 18,
+              "cuantity": 1
+            }
+          ]
+        },
+        {
+          "category": "Las Veganas",
+          "pizza_product": [
+            {
+              "id": 10,
+              "name": "Veggie Delight",
+              "description": "Pizza con vegetales frescos y base de salsa de tomate natural.",
+              "foto": "veggie.jpg",
+              "price": 17,
+              "cuantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hamburguers": [
+        {
+          "id": 12,
+          "hamburguer": "La clásica",
+          "description": "Carne de vaca bien rica, katsup y pepinillo",
+          "foto": "hamburguer.jpg",
+          "price": 12,
+          "cuantity": 1
+        },
+        {
+          "id": 11,
+          "hamburguer": "La doble",
+          "description": "Doble carne, katsup, ketchup, catsup y pepinillo",
+          "foto": "hamburguerDoble.jpg",
+          "price": 12,
+          "cuantity": 1
+        }
+      ]
+    },
+    {
+      "drinks": [
+        {
+          "id": 115,
+          "drink": "Coca-Cola",
+          "description": "Bebida fresquita",
+          "foto": "drink.jpg",
+          "price": 2,
+          "cuantity": 3
+        },
+        {
+          "id": 112,
+          "drink": "Fanta Naranja",
+          "description": "Bebida de naranjas de Valencia",
+          "foto": "Fanta.jpg",
+          "price": 2,
+          "cuantity": 1
+        }
+      ]
+    }
+  ]
+}]

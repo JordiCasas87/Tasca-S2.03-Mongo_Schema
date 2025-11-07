@@ -31,38 +31,7 @@
       },
       "price": 149.99,
       "saleDate": "2025-11-05",
-      "employee": "Ana López",
-      "supplier": [
-        {
-          "name": "VisionLux S.A.",
-          "telephone": 934567890,
-          "fax": 934567891,
-          "nif": "B12345678",
-          "address_Supplier": {
-            "street": "Carrer lentilla",
-            "num": 22,
-            "floor": 2,
-            "door": "B",
-            "city": "Barcelona",
-            "zip": "08022",
-            "country": "España"
-          },
-          "glasses": [
-            {
-              "brand": "Ray-Ban",
-              "frame": "metallic",
-              "frameColor": "silver",
-              "price": 149.99
-            },
-            {
-              "brand": "PRADA",
-              "frame": "pasta",
-              "frameColor": "negro",
-              "price": 189
-            }
-          ]
-        }
-      ]
+      "employee": "Ana López"
     }
   ]
 }]
